@@ -1,0 +1,8 @@
+# Default ignored files
+/workspace.xml
+/vcs.xml
+/libraries/src.xml
+/misc.xml
+/uiDesigner.xml
+/modules.xml
+/libraries/guava_23_0.xml
